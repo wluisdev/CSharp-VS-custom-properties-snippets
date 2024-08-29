@@ -54,12 +54,12 @@ prop :
     - The snippet will generate: **public bool MyProperty { get; set; }**
    
 propi :
-  - To Create a Boolean Property with Init
-    - Type **propiInt** and press Tab twice.
-    - The snippet will generate: **public int MyProperty { get; init; }**
+  - To Create a Double Property with Init
+    - Type **propiDouble** and press Tab twice.
+    - The snippet will generate: **public double MyProperty { get; init; }**
 
 propg :
   - To Create a Decimal Property with private set
-    - Type **propgInt** and press Tab twice.
+    - Type **propgDecimal** and press Tab twice.
     - The snippet will generate: **public decimal MyProperty { get; private set; }**
 
